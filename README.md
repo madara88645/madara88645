@@ -12,6 +12,7 @@ AI & Data Science undergraduate at Bournemouth University, building **AI-powered
 | **[VibeGraph](https://github.com/madara88645/VibeGraph)** | Turn any Python codebase into an interactive call graph with AI-powered explanations — upload, explore, learn. | [vibegraph.dev](https://vibegraph.dev) |
 | **[CogniGraph](https://github.com/madara88645/Cognigraph)** | Natural-language scenario → LLM classification → Brian2 spiking neural network → real-time 3D brain visualization. Educational, not medical. | [Live demo](https://cognigraph-tau.vercel.app) |
 | **NeurIQ** | AI-powered personalized learning platform for students — adaptive quizzes, study maps, cognitive analytics. In private beta. | [Landing](https://madara88645.github.io/landingpages/) |
+| **AgenticPlace** | Local-first agentic workspace — chat, agents, workflows, jobs, documents — built on FastAPI + LangGraph, with a Next.js frontend and an Electron desktop shell. | [Landing](https://madara88645.github.io/landingpages/agenticplace/) |
 
 ## 🤖 Built *by* AI agents (supervised by me)
 
