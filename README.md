@@ -16,10 +16,6 @@ I'm an AI & Data Science undergraduate at Bournemouth University. I build tools 
 
 [Does locality help?](https://github.com/madara88645/does-locality-help) asks whether a local neural-network learning rule reduces forgetting during sequential learning. The experiments examine alternative explanations and measurement limits; they do not establish a generally better learning rule.
 
-## AI assistance
-
-I use AI assistants in implementation, debugging, analysis and writing. These are AI-assisted projects, not claims that I wrote every line unaided. Research conclusions should be read alongside their controls, raw results and limitations.
-
 ## Writing
 
 I also write about AI on [Medium](https://medium.com/@mehmet.ozel2701).
